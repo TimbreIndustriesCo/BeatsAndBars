@@ -1,4 +1,4 @@
-# BeatsAndBars
+# Beats & Bars
 
 2HP Eurorack module that shows where you are in a phrase, so you always know when the next transition is coming.
 
